@@ -1,5 +1,5 @@
 🎤 Asistente de Voz IA
-Asistente de Voz IA:  es un asistente de voz en   Python que escucha y responde segun tu mensaje usando Edge TTS . Perfecto para aquellos que desean una interfaz de usuario muy simple de interactuar con IA por voz sin conexión a Internet.
+Es un asistente de voz en Python que escucha y responde segun tu mensaje usando Edge TTS . Perfecto para aquellos que desean una interfaz de usuario muy simple de interactuar con IA por voz sin conexión a Internet.
 🚀 Características
 ☑️ Escucha comandos de voz
 ☑️ Repuesta con voz utilizando Edge TTS
