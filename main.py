@@ -6,7 +6,7 @@ from config import MODEL_OLLAMA, MAX_HISTORY
 conversation_history = []
 system_prompt = {
     "role": "system",
-    "content": "Responde de manera natural, como si estuvieras teniendo una conversación casual. Usa un tono amigable y evita respuestas demasiado largas. y evita usar los astericos a toda costa, ademas escribe en texto plano sin saltos de lineas. es una orden."
+    "content": "Responde de manera natural, como si estuvieras teniendo una conversación casual. Usa un tono amigable y evita respuestas demasiado largas. y evita usar los astericos a toda costa, ademas escribe en texto plano sin saltos de lineas."
 }
 conversation_history.append(system_prompt)
 
