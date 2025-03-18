@@ -1,6 +1,6 @@
 ollama # Encargado de ejecutar el modelo de IA de manera local. > URL del modelo: https://ollama.com/library/gemma3
 edge-tts # Genera la voz de la IA.
-pygame # Encargado de reproducir sonidos y Buffer de audio.
+pygame # Encargado de reproducir los fragmentos de audio.
 speechrecognition # Reconocer la voz del usuario.
 keyboard # Detectar la tecla de activación del microfono.
 pyaudio  # Necesario para speech_recognition
