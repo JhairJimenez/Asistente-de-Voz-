@@ -12,15 +12,15 @@ Es un asistente de voz en Python que escucha y responde segun tu mensaje usando 
 🛠️ Instalación y Uso
 
 1. Clona este repositorio:
-2. 
+
 git clone https://github.com/JhairJimenez/Interaccion-Ia.git
 
-3. Instalar dependencias
-4. 
+2. Instalar dependencias
+   
 pip install -r requirements.txt
 
-5. Ejecuta el asistente:
-6. 
+3. Ejecuta el asistente:
+
 python main.py
 
 📌 Requisitos
