@@ -12,30 +12,40 @@ Es un asistente de voz en Python que escucha y responde segun tu mensaje usando 
 🛠️ Instalación y Uso
 
 1. Clona este repositorio:
+2. 
 git clone https://github.com/JhairJimenez/Interaccion-Ia.git
 
-2. Instalar dependencias
+3. Instalar dependencias
+4. 
 pip install -r requirements.txt
 
-3. Ejecuta el asistente:
+5. Ejecuta el asistente:
+6. 
 python main.py
 
 📌 Requisitos
 
 Python 3.8+
+
 Edge TTS
+
 Pyaudio 
+
 
 🛠️ Tecnologías Utilizadas
 
 Python 🐍
+
 Edge TTS (para la síntesis de voz)
+
 SpeechRecognition ( para   reconoca comandos de voz)
+
 Pyaudio (para la captura de audio)
 
 📜 Licencia
 
 Este software esta bajo la Licencia MIT, que te permite usar este proyecto  y modificarlo sin límites siempre que menciones al autor.
+
 👤 Autor
 
 Desarrollado por Jhair Jiménez.
