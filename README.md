@@ -46,7 +46,4 @@ Pyaudio (para la captura de audio)
 
 Este software esta bajo la Licencia MIT, que te permite usar este proyecto  y modificarlo sin límites siempre que menciones al autor.
 
-👤 Autor
-
-Desarrollado por Jhair Jiménez.
 ¡Si te gusta el proyecto, no dudes en darle una ⭐ y compartirlo! 🚀
