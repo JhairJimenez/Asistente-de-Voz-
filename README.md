@@ -43,8 +43,7 @@ SpeechRecognition ( para   reconoca comandos de voz)
 
 Pyaudio (para la captura de audio)
 
-📜 Licencia
-
-Este software esta bajo la Licencia MIT, que te permite usar este proyecto  y modificarlo sin límites siempre que menciones al autor.
+Este proyecto es libre así que puedes
+modificarlo sin límites siempre que menciones al autor.
 
 ¡Si te gusta el proyecto, no dudes en darle una ⭐ y compartirlo! 🚀
